@@ -102,3 +102,7 @@ As as result of completing Lecture 1 of Code 301, students will:
 
    export default Something
    ```
+## Resources
+
+- [Hoisting and Classes](https://replit.com/@sheyna/PureNumbNanocad#index.js)
+- [Array forEach](https://replit.com/@sheyna/UnfitBestDisks#index.js)
