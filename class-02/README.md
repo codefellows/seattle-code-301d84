@@ -34,7 +34,7 @@ As a result of completing Lecture 2 of Code 301, students will be able to:
 
 ## Notes
 
-1. What is state? 
+1. What is state?
 
 1. What are props?
 
@@ -75,7 +75,7 @@ As a result of completing Lecture 2 of Code 301, students will be able to:
   }
 
   export default Parent
-  
+
   import React from 'react';
 
   class Child extends React.Component {
@@ -88,3 +88,8 @@ As a result of completing Lecture 2 of Code 301, students will be able to:
 
   export default Child
   ```
+
+## Resources
+
+- [Intro to array .map() method](https://replit.com/@sheyna/MoccasinExternalSequence#index.js)
+- [Emoji finder](https://emojifinder.com/)
