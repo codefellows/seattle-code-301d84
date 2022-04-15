@@ -90,4 +90,4 @@ As a result of completing lecture 5 of Code 301, students will:
 
 ## Resources
 
-- [Intro to array method .reduce()](https://replit.com/@sheyna/Intro-to-array-method-reduce#index.js)
+- [Intro to array method .reduce()](https://replit.com/@sheyna/TemporalClassicMegabyte#index.js)
