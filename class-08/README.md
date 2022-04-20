@@ -50,3 +50,8 @@ As a result of completing Lecture 8 of Code 301, students will be able to:
   ```
 
 - NOTE: `axios` returns a giant object. The data we care about will be found in the `data` property of that object.
+
+## Resources
+
+- [RegEx 101](https://regex101.com/)
+- [Intro to RedEx](https://replit.com/@sheyna/NumbElderlyDeclarations#index.js)
