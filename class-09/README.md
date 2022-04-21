@@ -18,9 +18,10 @@ Today we will dive a little bit deeper into Express and higher level programming
 - Lab Preview
 
 ## Learning Objectives
+
 Students will be able to:
 
-- Describe and Define  
+- Describe and Define
   - Substandard programming patterns
   - Refactoring opportunities
   - Efficiency Loss/Gain
@@ -40,17 +41,12 @@ Students will be able to:
 
 1. Why do we modularize our code?
 
-
-
 1. What is a Promise?
-
-
 
 1. What is the difference between a Promise and using `.then()/.catch()`?
 
-
-
 1. `async and await` - vs - `.then() and .catch()`
+
   ```javaScript
   async function doSomething() {
     try{
@@ -73,6 +69,7 @@ Students will be able to:
   ```
 
 1. Modularizing a file on the server
+
   ```javaScript
   function doSomething(){
     // does something really cool
@@ -80,7 +77,8 @@ Students will be able to:
 
   module.exports = doSomething
   ```
-  - OR, it can be writen like this
+
+- OR, it can be writen like this
 
   ```javaScript
   module.exports = () => {
@@ -88,7 +86,7 @@ Students will be able to:
   }
   ```
 
-  - in the server file
+- in the server file
 
   ```javaScript
   const doSomething = require('./path-to-doSomething');
@@ -96,6 +94,7 @@ Students will be able to:
   ```
 
 1. We can also export more than one function by putting it in an object
+
   ```javaScript
   module.exports = {
     doSomething: function(){
@@ -107,7 +106,8 @@ Students will be able to:
     }
   }
   ```
-  - to access a function from the object above in the server, we would...
+
+- to access a function from the object above in the server, we would...
 
   ```javaScript
   const doesStuffObject = require('./path-to-doesStuffObject');
@@ -116,4 +116,8 @@ Students will be able to:
   doesStuffObject.doSomethingElse();
   ```
 
-  1. List of resources to help with lab or if I want to know more:
+1. List of resources to help with lab or if I want to know more:
+
+## Resources
+
+- [Object demos](https://replit.com/@sheyna/DirectTemporalType#index.js)
