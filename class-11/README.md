@@ -100,3 +100,8 @@ fluffy.save();
 
 1. What resources can I use to help me with my lab and to learn more?
 [mongoose](https://mongoosejs.com/docs/)
+
+## Resources
+
+- [Mongo Atlas Database](https://www.mongodb.com/atlas/database)
+- [Chainging demo](https://replit.com/@sheyna/SunnyPurplePiracy#index.js)
